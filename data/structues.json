@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Burger house",
+        "address": "123 Main St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94117",
+        "phone": "415-555-1234",
+        "website": "http://burgerhouse.com",
+        "description": "Burgers, fries, and shakes",
+        "coordinates": {
+            "latitude": 37.77493,
+            "longitude": -122.41942
+        }
+    },
+    {
+        "name": "Pizza place",
+        "address": "5678 Main St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60601",
+        "phone": "312-555-5678",
+        "website": "http://pizzaplace.com",
+        "description": "Pizza pies"
+    },
+    {
+        "name": "Taco house",
+        "address": "9012 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "phone": "212-555-9012",
+        "website": "http://tacohouse.com",
+        "description": "Tacos, burritos, and more",
+        "coordinates": {
+            "latitude": 40.71448,
+            "longitude": -74.00598
+        }
+    },
+    {
+        "name": "Sushi place",
+        "address": "3456 Main St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90001",
+        "phone": "213-555-3456",
+        "website": "http://sushiplace.com",
+        "description": "Fresh sushi",
+        "coordinates": {
+            "latitude": -118.24368,
+            "longitude": 34.05223
+        }
+    },
+    {
+        "name": "Sandwich shop",
+        "address": "7890 Main St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101",
+        "phone": "206-555-7890",
+        "website": "http://sandwichshop.com",
+        "description": "Like u r",
+        "coordinates": {
+            "latitude": 47.60621,
+            "longitude": -122.33207
+        }
+    },
+    {
+        "name": "Le Péché Mignon",
+        "address": "50 Av. de Clichy",
+        "city": "Paris",
+        "county": "75",
+        "postalCode": "75018",
+        "phone": "0171241291",
+        "website": "http://facebook.com/pages/category/Restaurant/P%C3%A9ch%C3%A9mignon-4028292804860",
+        "coordinates": {
+            "latitude": 48.8844575,
+            "longitude": 2.302664
+        }
+    }
+]

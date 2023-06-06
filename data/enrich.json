@@ -1,0 +1,26 @@
+[
+    {
+        "state": "CA",
+        "country": "USA"
+    },
+    {
+        "state": "IL",
+        "country": "USA"
+    },
+    {
+        "state": "NY",
+        "country": "USA"
+    },
+    {
+        "state": "CA",
+        "country": "USA"
+    },
+    {
+        "state": "WA",
+        "country": "USA"
+    },
+    {
+        "county": 75,
+        "country": "FRA"
+    }
+]
