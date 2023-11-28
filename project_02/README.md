@@ -7,6 +7,7 @@ Projet plus orienté données.
 * Quels languages de programmation sont connus / expérimentés ?
 * Quels frameworks Javascript ?
 * Quelles formats ou technologies / solutions de gestion / manipulation de données ?
+* Qu'est ce qu'un design system ?
 
 ## Seconde partie d'entretien plus technique
 
