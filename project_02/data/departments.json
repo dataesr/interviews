@@ -1,1 +1,532 @@
-[{"geo_id":"D018","geo_nom":"Cher","reg_id":"R24"},{"geo_id":"D026","geo_nom":"Drôme","reg_id":"R84"},{"geo_id":"D971","geo_nom":"Guadeloupe","reg_id":"R01"},{"geo_id":"D031","geo_nom":"Haute-Garonne","reg_id":"R76"},{"geo_id":"D022","geo_nom":"Côtes-d'Armor","reg_id":"R53"},{"geo_id":"D088","geo_nom":"Vosges","reg_id":"R44"},{"geo_id":"D074","geo_nom":"Haute-Savoie","reg_id":"R84"},{"geo_id":"D038","geo_nom":"Isère","reg_id":"R84"},{"geo_id":"D976","geo_nom":"Mayotte","reg_id":"R06"},{"geo_id":"D037","geo_nom":"Indre-et-Loire","reg_id":"R24"},{"geo_id":"D059","geo_nom":"Nord","reg_id":"R32"},{"geo_id":"D095","geo_nom":"Val-d'Oise","reg_id":"R11"},{"geo_id":"D045","geo_nom":"Loiret","reg_id":"R24"},{"geo_id":"D087","geo_nom":"Haute-Vienne","reg_id":"R75"},{"geo_id":"D058","geo_nom":"Nièvre","reg_id":"R27"},{"geo_id":"D048","geo_nom":"Lozère","reg_id":"R76"},{"geo_id":"D068","geo_nom":"Haut-Rhin","reg_id":"R44"},{"geo_id":"D082","geo_nom":"Tarn-et-Garonne","reg_id":"R76"},{"geo_id":"D066","geo_nom":"Pyrénées-Orientales","reg_id":"R76"},{"geo_id":"D978","geo_nom":"Saint-Martin","reg_id":"R00"},{"geo_id":"D008","geo_nom":"Ardennes","reg_id":"R44"},{"geo_id":"D064","geo_nom":"Pyrénées-Atlantiques","reg_id":"R75"},{"geo_id":"D078","geo_nom":"Yvelines","reg_id":"R11"},{"geo_id":"D036","geo_nom":"Indre","reg_id":"R24"},{"geo_id":"D009","geo_nom":"Ariège","reg_id":"R76"},{"geo_id":"D077","geo_nom":"Seine-et-Marne","reg_id":"R11"},{"geo_id":"D044","geo_nom":"Loire-Atlantique","reg_id":"R52"},{"geo_id":"D007","geo_nom":"Ardèche","reg_id":"R84"},{"geo_id":"D021","geo_nom":"Côte-d'Or","reg_id":"R27"},{"geo_id":"D061","geo_nom":"Orne","reg_id":"R28"},{"geo_id":"D047","geo_nom":"Lot-et-Garonne","reg_id":"R75"},{"geo_id":"D076","geo_nom":"Seine-Maritime","reg_id":"R28"},{"geo_id":"D079","geo_nom":"Deux-Sèvres","reg_id":"R75"},{"geo_id":"D057","geo_nom":"Moselle","reg_id":"R44"},{"geo_id":"D041","geo_nom":"Loir-et-Cher","reg_id":"R24"},{"geo_id":"D023","geo_nom":"Creuse","reg_id":"R75"},{"geo_id":"D094","geo_nom":"Val-de-Marne","reg_id":"R11"},{"geo_id":"D053","geo_nom":"Mayenne","reg_id":"R52"},{"geo_id":"D049","geo_nom":"Maine-et-Loire","reg_id":"R52"},{"geo_id":"D062","geo_nom":"Pas-de-Calais","reg_id":"R32"},{"geo_id":"D014","geo_nom":"Calvados","reg_id":"R28"},{"geo_id":"D081","geo_nom":"Tarn","reg_id":"R76"},{"geo_id":"D054","geo_nom":"Meurthe-et-Moselle","reg_id":"R44"},{"geo_id":"D015","geo_nom":"Cantal","reg_id":"R84"},{"geo_id":"D046","geo_nom":"Lot","reg_id":"R76"},{"geo_id":"D013","geo_nom":"Bouches-du-Rhône","reg_id":"R93"},{"geo_id":"D973","geo_nom":"Guyane","reg_id":"R03"},{"geo_id":"D974","geo_nom":"La Réunion","reg_id":"R04"},{"geo_id":"D006","geo_nom":"Alpes-Maritimes","reg_id":"R93"},{"geo_id":"D075","geo_nom":"Paris","reg_id":"R11"},{"geo_id":"D003","geo_nom":"Allier","reg_id":"R84"},{"geo_id":"D017","geo_nom":"Charente-Maritime","reg_id":"R75"},{"geo_id":"D029","geo_nom":"Finistère","reg_id":"R53"},{"geo_id":"D051","geo_nom":"Marne","reg_id":"R44"},{"geo_id":"D024","geo_nom":"Dordogne","reg_id":"R75"},{"geo_id":"D025","geo_nom":"Doubs","reg_id":"R27"},{"geo_id":"D060","geo_nom":"Oise","reg_id":"R32"},{"geo_id":"D005","geo_nom":"Hautes-Alpes","reg_id":"R93"},{"geo_id":"D035","geo_nom":"Ille-et-Vilaine","reg_id":"R53"},{"geo_id":"D987","geo_nom":"Polynésie Française","reg_id":"R00"},{"geo_id":"D090","geo_nom":"Territoire de Belfort","reg_id":"R27"},{"geo_id":"D092","geo_nom":"Hauts-de-Seine","reg_id":"R11"},{"geo_id":"D019","geo_nom":"Corrèze","reg_id":"R75"},{"geo_id":"D093","geo_nom":"Seine-Saint-Denis","reg_id":"R11"},{"geo_id":"D042","geo_nom":"Loire","reg_id":"R84"},{"geo_id":"D065","geo_nom":"Hautes-Pyrénées","reg_id":"R76"},{"geo_id":"D02B","geo_nom":"Haute-Corse","reg_id":"R94"},{"geo_id":"D032","geo_nom":"Gers","reg_id":"R76"},{"geo_id":"D072","geo_nom":"Sarthe","reg_id":"R52"},{"geo_id":"D055","geo_nom":"Meuse","reg_id":"R44"},{"geo_id":"D988","geo_nom":"Nouvelle-Calédonie","reg_id":"R00"},{"geo_id":"D085","geo_nom":"Vendée","reg_id":"R52"},{"geo_id":"D027","geo_nom":"Eure","reg_id":"R28"},{"geo_id":"D033","geo_nom":"Gironde","reg_id":"R75"},{"geo_id":"D034","geo_nom":"Hérault","reg_id":"R76"},{"geo_id":"D972","geo_nom":"Martinique","reg_id":"R02"},{"geo_id":"D040","geo_nom":"Landes","reg_id":"R75"},{"geo_id":"D986","geo_nom":"Wallis et Futuna","reg_id":"R00"},{"geo_id":"D089","geo_nom":"Yonne","reg_id":"R27"},{"geo_id":"D080","geo_nom":"Somme","reg_id":"R32"},{"geo_id":"D084","geo_nom":"Vaucluse","reg_id":"R93"},{"geo_id":"D067","geo_nom":"Bas-Rhin","reg_id":"R44"},{"geo_id":"D091","geo_nom":"Essonne","reg_id":"R11"},{"geo_id":"D999","geo_nom":"Étranger","reg_id":"R99"},{"geo_id":"D004","geo_nom":"Alpes-de-Haute-Provence","reg_id":"R93"},{"geo_id":"D011","geo_nom":"Aude","reg_id":"R76"},{"geo_id":"D083","geo_nom":"Var","reg_id":"R93"},{"geo_id":"D069","geo_nom":"Rhône","reg_id":"R84"},{"geo_id":"D001","geo_nom":"Ain","reg_id":"R84"},{"geo_id":"D030","geo_nom":"Gard","reg_id":"R76"},{"geo_id":"D012","geo_nom":"Aveyron","reg_id":"R76"},{"geo_id":"D016","geo_nom":"Charente","reg_id":"R75"},{"geo_id":"D063","geo_nom":"Puy-de-Dôme","reg_id":"R84"},{"geo_id":"D002","geo_nom":"Aisne","reg_id":"R32"},{"geo_id":"D028","geo_nom":"Eure-et-Loir","reg_id":"R24"},{"geo_id":"D050","geo_nom":"Manche","reg_id":"R28"},{"geo_id":"D039","geo_nom":"Jura","reg_id":"R27"},{"geo_id":"D071","geo_nom":"Saône-et-Loire","reg_id":"R27"},{"geo_id":"D086","geo_nom":"Vienne","reg_id":"R75"},{"geo_id":"D052","geo_nom":"Haute-Marne","reg_id":"R44"},{"geo_id":"D010","geo_nom":"Aube","reg_id":"R44"},{"geo_id":"D070","geo_nom":"Haute-Saône","reg_id":"R27"},{"geo_id":"D056","geo_nom":"Morbihan","reg_id":"R53"},{"geo_id":"D043","geo_nom":"Haute-Loire","reg_id":"R84"},{"geo_id":"D073","geo_nom":"Savoie","reg_id":"R84"},{"geo_id":"D02A","geo_nom":"Corse-du-Sud","reg_id":"R94"}]
+[
+  {
+    "geo_id": "D018",
+    "geo_nom": "Cher",
+    "reg_id": "R24"
+  },
+  {
+    "geo_id": "D026",
+    "geo_nom": "Drôme",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D971",
+    "geo_nom": "Guadeloupe",
+    "reg_id": "R01"
+  },
+  {
+    "geo_id": "D031",
+    "geo_nom": "Haute-Garonne",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D022",
+    "geo_nom": "Côtes-d'Armor",
+    "reg_id": "R53"
+  },
+  {
+    "geo_id": "D088",
+    "geo_nom": "Vosges",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D074",
+    "geo_nom": "Haute-Savoie",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D038",
+    "geo_nom": "Isère",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D976",
+    "geo_nom": "Mayotte",
+    "reg_id": "R06"
+  },
+  {
+    "geo_id": "D037",
+    "geo_nom": "Indre-et-Loire",
+    "reg_id": "R24"
+  },
+  {
+    "geo_id": "D059",
+    "geo_nom": "Nord",
+    "reg_id": "R32"
+  },
+  {
+    "geo_id": "D095",
+    "geo_nom": "Val-d'Oise",
+    "reg_id": "R11"
+  },
+  {
+    "geo_id": "D045",
+    "geo_nom": "Loiret",
+    "reg_id": "R24"
+  },
+  {
+    "geo_id": "D087",
+    "geo_nom": "Haute-Vienne",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D058",
+    "geo_nom": "Nièvre",
+    "reg_id": "R27"
+  },
+  {
+    "geo_id": "D048",
+    "geo_nom": "Lozère",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D068",
+    "geo_nom": "Haut-Rhin",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D082",
+    "geo_nom": "Tarn-et-Garonne",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D066",
+    "geo_nom": "Pyrénées-Orientales",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D978",
+    "geo_nom": "Saint-Martin",
+    "reg_id": "R00"
+  },
+  {
+    "geo_id": "D008",
+    "geo_nom": "Ardennes",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D064",
+    "geo_nom": "Pyrénées-Atlantiques",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D078",
+    "geo_nom": "Yvelines",
+    "reg_id": "R11"
+  },
+  {
+    "geo_id": "D036",
+    "geo_nom": "Indre",
+    "reg_id": "R24"
+  },
+  {
+    "geo_id": "D009",
+    "geo_nom": "Ariège",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D077",
+    "geo_nom": "Seine-et-Marne",
+    "reg_id": "R11"
+  },
+  {
+    "geo_id": "D044",
+    "geo_nom": "Loire-Atlantique",
+    "reg_id": "R52"
+  },
+  {
+    "geo_id": "D007",
+    "geo_nom": "Ardèche",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D021",
+    "geo_nom": "Côte-d'Or",
+    "reg_id": "R27"
+  },
+  {
+    "geo_id": "D061",
+    "geo_nom": "Orne",
+    "reg_id": "R28"
+  },
+  {
+    "geo_id": "D047",
+    "geo_nom": "Lot-et-Garonne",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D076",
+    "geo_nom": "Seine-Maritime",
+    "reg_id": "R28"
+  },
+  {
+    "geo_id": "D079",
+    "geo_nom": "Deux-Sèvres",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D057",
+    "geo_nom": "Moselle",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D041",
+    "geo_nom": "Loir-et-Cher",
+    "reg_id": "R24"
+  },
+  {
+    "geo_id": "D023",
+    "geo_nom": "Creuse",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D094",
+    "geo_nom": "Val-de-Marne",
+    "reg_id": "R11"
+  },
+  {
+    "geo_id": "D053",
+    "geo_nom": "Mayenne",
+    "reg_id": "R52"
+  },
+  {
+    "geo_id": "D049",
+    "geo_nom": "Maine-et-Loire",
+    "reg_id": "R52"
+  },
+  {
+    "geo_id": "D062",
+    "geo_nom": "Pas-de-Calais",
+    "reg_id": "R32"
+  },
+  {
+    "geo_id": "D014",
+    "geo_nom": "Calvados",
+    "reg_id": "R28"
+  },
+  {
+    "geo_id": "D081",
+    "geo_nom": "Tarn",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D054",
+    "geo_nom": "Meurthe-et-Moselle",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D015",
+    "geo_nom": "Cantal",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D046",
+    "geo_nom": "Lot",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D013",
+    "geo_nom": "Bouches-du-Rhône",
+    "reg_id": "R93"
+  },
+  {
+    "geo_id": "D973",
+    "geo_nom": "Guyane",
+    "reg_id": "R03"
+  },
+  {
+    "geo_id": "D974",
+    "geo_nom": "La Réunion",
+    "reg_id": "R04"
+  },
+  {
+    "geo_id": "D006",
+    "geo_nom": "Alpes-Maritimes",
+    "reg_id": "R93"
+  },
+  {
+    "geo_id": "D075",
+    "geo_nom": "Paris",
+    "reg_id": "R11"
+  },
+  {
+    "geo_id": "D003",
+    "geo_nom": "Allier",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D017",
+    "geo_nom": "Charente-Maritime",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D029",
+    "geo_nom": "Finistère",
+    "reg_id": "R53"
+  },
+  {
+    "geo_id": "D051",
+    "geo_nom": "Marne",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D024",
+    "geo_nom": "Dordogne",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D025",
+    "geo_nom": "Doubs",
+    "reg_id": "R27"
+  },
+  {
+    "geo_id": "D060",
+    "geo_nom": "Oise",
+    "reg_id": "R32"
+  },
+  {
+    "geo_id": "D005",
+    "geo_nom": "Hautes-Alpes",
+    "reg_id": "R93"
+  },
+  {
+    "geo_id": "D035",
+    "geo_nom": "Ille-et-Vilaine",
+    "reg_id": "R53"
+  },
+  {
+    "geo_id": "D987",
+    "geo_nom": "Polynésie Française",
+    "reg_id": "R00"
+  },
+  {
+    "geo_id": "D090",
+    "geo_nom": "Territoire de Belfort",
+    "reg_id": "R27"
+  },
+  {
+    "geo_id": "D092",
+    "geo_nom": "Hauts-de-Seine",
+    "reg_id": "R11"
+  },
+  {
+    "geo_id": "D019",
+    "geo_nom": "Corrèze",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D093",
+    "geo_nom": "Seine-Saint-Denis",
+    "reg_id": "R11"
+  },
+  {
+    "geo_id": "D042",
+    "geo_nom": "Loire",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D065",
+    "geo_nom": "Hautes-Pyrénées",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D02B",
+    "geo_nom": "Haute-Corse",
+    "reg_id": "R94"
+  },
+  {
+    "geo_id": "D032",
+    "geo_nom": "Gers",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D072",
+    "geo_nom": "Sarthe",
+    "reg_id": "R52"
+  },
+  {
+    "geo_id": "D055",
+    "geo_nom": "Meuse",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D988",
+    "geo_nom": "Nouvelle-Calédonie",
+    "reg_id": "R00"
+  },
+  {
+    "geo_id": "D085",
+    "geo_nom": "Vendée",
+    "reg_id": "R52"
+  },
+  {
+    "geo_id": "D027",
+    "geo_nom": "Eure",
+    "reg_id": "R28"
+  },
+  {
+    "geo_id": "D033",
+    "geo_nom": "Gironde",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D034",
+    "geo_nom": "Hérault",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D972",
+    "geo_nom": "Martinique",
+    "reg_id": "R02"
+  },
+  {
+    "geo_id": "D040",
+    "geo_nom": "Landes",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D986",
+    "geo_nom": "Wallis et Futuna",
+    "reg_id": "R00"
+  },
+  {
+    "geo_id": "D089",
+    "geo_nom": "Yonne",
+    "reg_id": "R27"
+  },
+  {
+    "geo_id": "D080",
+    "geo_nom": "Somme",
+    "reg_id": "R32"
+  },
+  {
+    "geo_id": "D084",
+    "geo_nom": "Vaucluse",
+    "reg_id": "R93"
+  },
+  {
+    "geo_id": "D067",
+    "geo_nom": "Bas-Rhin",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D091",
+    "geo_nom": "Essonne",
+    "reg_id": "R11"
+  },
+  {
+    "geo_id": "D999",
+    "geo_nom": "Étranger",
+    "reg_id": "R99"
+  },
+  {
+    "geo_id": "D004",
+    "geo_nom": "Alpes-de-Haute-Provence",
+    "reg_id": "R93"
+  },
+  {
+    "geo_id": "D011",
+    "geo_nom": "Aude",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D083",
+    "geo_nom": "Var",
+    "reg_id": "R93"
+  },
+  {
+    "geo_id": "D069",
+    "geo_nom": "Rhône",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D001",
+    "geo_nom": "Ain",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D030",
+    "geo_nom": "Gard",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D012",
+    "geo_nom": "Aveyron",
+    "reg_id": "R76"
+  },
+  {
+    "geo_id": "D016",
+    "geo_nom": "Charente",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D063",
+    "geo_nom": "Puy-de-Dôme",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D002",
+    "geo_nom": "Aisne",
+    "reg_id": "R32"
+  },
+  {
+    "geo_id": "D028",
+    "geo_nom": "Eure-et-Loir",
+    "reg_id": "R24"
+  },
+  {
+    "geo_id": "D050",
+    "geo_nom": "Manche",
+    "reg_id": "R28"
+  },
+  {
+    "geo_id": "D039",
+    "geo_nom": "Jura",
+    "reg_id": "R27"
+  },
+  {
+    "geo_id": "D071",
+    "geo_nom": "Saône-et-Loire",
+    "reg_id": "R27"
+  },
+  {
+    "geo_id": "D086",
+    "geo_nom": "Vienne",
+    "reg_id": "R75"
+  },
+  {
+    "geo_id": "D052",
+    "geo_nom": "Haute-Marne",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D010",
+    "geo_nom": "Aube",
+    "reg_id": "R44"
+  },
+  {
+    "geo_id": "D070",
+    "geo_nom": "Haute-Saône",
+    "reg_id": "R27"
+  },
+  {
+    "geo_id": "D056",
+    "geo_nom": "Morbihan",
+    "reg_id": "R53"
+  },
+  {
+    "geo_id": "D043",
+    "geo_nom": "Haute-Loire",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D073",
+    "geo_nom": "Savoie",
+    "reg_id": "R84"
+  },
+  {
+    "geo_id": "D02A",
+    "geo_nom": "Corse-du-Sud",
+    "reg_id": "R94"
+  }
+]
