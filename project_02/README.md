@@ -11,4 +11,4 @@ Projet plus orienté données.
 
 ## Seconde partie d'entretien plus technique
 
-* Liste des noms des départements de la région Auvergne-Rhône-Alpes
+* Liste des noms des départements dont le nom de région contient le mot "Alpes"
