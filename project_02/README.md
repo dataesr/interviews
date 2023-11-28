@@ -4,10 +4,11 @@ Projet plus orienté données.
 
 ## Première partie d'entretien avec juste des questions orales
 
-* Quels languages de programmation sont connus / expérimentés ?
+* Quel(s) language(s) de programmation sont connus / expérimentés / préférés ?
 * Quels frameworks Javascript ?
 * Quelles formats ou technologies / solutions de gestion / manipulation de données ?
 * Qu'est ce qu'un design system ?
+* Quel environnement de développement habituel (OS, IDE, shell, outils ...) ?
 
 ## Seconde partie d'entretien plus technique
 
