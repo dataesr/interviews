@@ -1,10 +1,11 @@
-# eliud-project
-Projet de tests du département DOAD
+# interviews
 
-## 1. Etre capable de compter le nombre de structures par pays et ayant une adresse valide
+Support pour des entretiens techniques du département DISD.
 
-Définir un algorithme en langage naturel ou pseudo-code capable de traiter le fichier présent dans data/structures.json
+## Projet 01
 
-## 2. Enrichir les données en retrouvant le pays de chaque structure
+Projet plus orienté développement.
 
-## 3. Comment aller plus loin et récupérer d'autres informations géographiques comme la région par exemple
+## Projet 02
+
+Projet plus orienté données.
