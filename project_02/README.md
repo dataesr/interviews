@@ -9,6 +9,7 @@ Projet plus orienté données.
 * Quelles formats ou technologies / solutions de gestion / manipulation de données ?
 * Qu'est ce qu'un design system ?
 * Quel environnement de développement habituel (OS, IDE, shell, outils ...) ?
+* Figma ?
 
 ## Seconde partie d'entretien plus technique
 
